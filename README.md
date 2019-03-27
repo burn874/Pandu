@@ -1,5 +1,5 @@
 # Pandu
-### Winning Project of SMU Fintech x Bambu Challenge 2018
+### Winning Project of [SMU Fintech x Bambu Challenge 2018](https://developer.bambu.life/page/bambu-fintech-challenge)
 ###### University | House | Investing Portfolio Calculator
 
 ### TL;DR
